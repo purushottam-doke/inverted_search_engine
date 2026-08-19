@@ -1,8 +1,0 @@
-#0;apple;2;f1.txt;1;f2.txt;1;#
-#2;cat;2;f1.txt;1;f3.txt;1;#
-#3;dog;1;f3.txt;1;#
-#12;mango;1;f2.txt;1;#
-#15;puru;2;f1.txt;1;f2.txt;1;#
-#17;rat;2;f1.txt;1;f3.txt;1;#
-#17;rutu;1;f2.txt;1;#
-#19;teju;1;f1.txt;1;#
