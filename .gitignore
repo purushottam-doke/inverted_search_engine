@@ -1,11 +1,8 @@
-*.exe
-*.out
+# Compiled files
 *.o
-*.obj
+*.out
+*.exe
+a.out
 
-.vscode/
-.idea/
-
+# Temporary files
 *.tmp
-*.temp
-*~
